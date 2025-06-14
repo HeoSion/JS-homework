@@ -2,20 +2,20 @@
 
 ## 📖 목차
 
-1. [📝 변수와 상수(variables, constant)](#변수와-상수-사용-가이드variables-constant)
-2. [📝 함수(function)](#함수-사용-가이드function)
+ - [<U>**📦 변수와 상수(variables, constant)**</U>](#변수와-상수-사용-가이드variables-constant)
+ - [<U>**🔁 함수(function)**</U>](#함수-사용-가이드function)
    <details>
      <summary>📌 세부 함수 목록 보기</summary>
 
-   - [greetUser (인사말 메시지)](#1--인사말-메시지-함수)
-   - [calculateOriginalPrice (원가 계산)](#2--원가-계산-함수)
-   - [canSellAlcohol (주류 판매 가능 여부)](#3--주류-판매-가능-여부)
-   - [getDiscountedPrice (할인가 계산)](#4--할인가-계산-함수)
-   - [getGradeResult (등급 판단)](#5--등급-판단-함수)
+   - [<U>greetUser (인사말 메시지)</U>](#1--인사말-메시지-함수)
+   - [<U>calculateOriginalPrice (원가 계산)</U>](#2--원가-계산-함수)
+   - [<U>canSellAlcohol (주류 판매 가능 여부)</U>](#3--주류-판매-가능-여부)
+   - [<U>getDiscountedPrice (할인가 계산)</U>](#4--할인가-계산-함수)
+   - [<U>getGradeResult (등급 판단)</U>](#5--등급-판단-함수)
 
    </details>
 
-# 📘 변수와 상수 사용 가이드(variables, constant)
+## 📘 변수와 상수 사용 가이드(variables, constant)
 
 | 구분                | 설명                                                                |
 | ------------------- | ------------------------------------------------------------------- |
@@ -25,9 +25,11 @@
 | 🔢 숫자 (Number)    | 그냥 숫자 형태로 작성합니다.<br>예: `100`, `3.14`                   |
 | ✅ 불리언 (Boolean) | `true` 또는 `false`만 가능합니다.                                   |
 
-# 📗 함수 사용 가이드(function)
+---
 
-## 1. 👋 인사말 메시지 함수
+## 📗 함수 사용 가이드(function)
+
+### 1. 👋 인사말 메시지 함수
 
 **함수 이름**: `greetUser`  
 **타입**: 함수 선언식  
@@ -48,7 +50,7 @@ greetUser("시온");
 
 ---
 
-## 2. 💰 원가 계산 함수
+### 2. 💰 원가 계산 함수
 
 **함수 이름**: `calculateOriginalPrice`  
 **타입**: 함수 표현식  
@@ -70,7 +72,7 @@ calculateOriginalPrice(10330);
 
 ---
 
-## 3. 🍺 주류 판매 가능 여부
+### 3. 🍺 주류 판매 가능 여부
 
 **함수 이름**: `canSellAlcohol`  
 **타입**: 화살표 함수  
@@ -91,7 +93,7 @@ canSellAlcohol({ name: "철수", age: 20, gender: "남" });
 
 ---
 
-## 4. 📉 할인가 계산 함수
+### 4. 📉 할인가 계산 함수
 
 **함수 이름**: `getDiscountedPrice`  
 **타입**: 함수 선언식  
@@ -113,7 +115,7 @@ getDiscountedPrice(18700, 20);
 
 ---
 
-## 5. 🏅 등급 판단 함수
+### 5. 🏅 등급 판단 함수
 
 **함수 이름**: `getGradeResult`  
 **타입**: 함수 선언식  
@@ -157,7 +159,7 @@ getGradeResult(87);
 
 ---
 
-## ✅ 전체 결과 테스트 예시
+### ✅ 전체 결과 테스트 예시
 
 ```js
 console.log(greetUser("시온"));

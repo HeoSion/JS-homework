@@ -2,18 +2,19 @@
 
 ## 📖 목차
 
- - [<U>**📦 변수와 상수(variables, constant)**</U>](#변수와-상수-사용-가이드variables-constant)
- - [<U>**🔁 함수(function)**</U>](#함수-사용-가이드function)
-   <details>
-     <summary>📌 세부 함수 목록 보기</summary>
+- [**📦 변수와 상수(variables, constant)**](#-변수와-상수-사용-가이드variables-constant)
+- [**🔁 함수(function)**](#-함수-사용-가이드function)
+  <details>
+    <summary>📌 세부 함수 목록 보기</summary>
 
-   - [<U>greetUser (인사말 메시지)</U>](#1--인사말-메시지-함수)
-   - [<U>calculateOriginalPrice (원가 계산)</U>](#2--원가-계산-함수)
-   - [<U>canSellAlcohol (주류 판매 가능 여부)</U>](#3--주류-판매-가능-여부)
-   - [<U>getDiscountedPrice (할인가 계산)</U>](#4--할인가-계산-함수)
-   - [<U>getGradeResult (등급 판단)</U>](#5--등급-판단-함수)
+  - [👋 인사말 메시지 함수](#1--인사말-메시지-함수)
+  - [💰 원가 계산 함수](#2--원가-계산-함수)
+  - [🍺 주류 판매 가능 여부](#3--주류-판매-가능-여부)
+  - [📉 할인가 계산 함수](#4--할인가-계산-함수)
+  - [🏅 등급 판단 함수](#5--등급-판단-함수)
+  - [✅ 전체 결과 테스트 예시](#5--등급-판단-함수)
 
-   </details>
+  </details>
 
 ## 📘 변수와 상수 사용 가이드(variables, constant)
 

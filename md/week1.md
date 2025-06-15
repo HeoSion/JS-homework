@@ -2,7 +2,7 @@
 
 ## 📖 목차
 
-- [**📦 변수와 상수(variables, constant)**](#-변수와-상수-사용-가이드variables-constant)
+- [**📦 변수와 상수(variables, constant)**](#-변수와-상수variables-constant)
   <details>
     <summary>📌 세부 변수/상수 목록</summary>
 
@@ -19,7 +19,7 @@
 
   </details>
 
-- [**🔁 함수(function)**](#-함수-사용-가이드function)
+- [**🔁 함수(function)**](#-함수function)
   <details>
     <summary>📌 세부 함수 목록</summary>
 
